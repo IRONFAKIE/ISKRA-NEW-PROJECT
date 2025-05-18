@@ -63,6 +63,46 @@ namespace ISKRA_NEW_PROJECT.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _61b7059fb1c7e3038e7e0fe7 {
+            get {
+                object obj = ResourceManager.GetObject("61b7059fb1c7e3038e7e0fe7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap photo_2025_01_08_13_50_20 {
+            get {
+                object obj = ResourceManager.GetObject("photo_2025-01-08_13-50-20", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap photo_2025_03_17_22_34_08 {
+            get {
+                object obj = ResourceManager.GetObject("photo_2025-03-17_22-34-08", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap photo_2025_03_23_18_56_44 {
+            get {
+                object obj = ResourceManager.GetObject("photo_2025-03-23_18-56-44", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap фракталы {
             get {
                 object obj = ResourceManager.GetObject("фракталы", resourceCulture);
