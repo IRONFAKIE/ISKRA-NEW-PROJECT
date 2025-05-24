@@ -78,7 +78,7 @@
             // 
             pictureBox1.Image = Properties.Resources.photo_2025_03_17_22_34_08;
             pictureBox1.InitialImage = Properties.Resources.фракталы;
-            pictureBox1.Location = new Point(219, 12);
+            pictureBox1.Location = new Point(226, 12);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(363, 200);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
